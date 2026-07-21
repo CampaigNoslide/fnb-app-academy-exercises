@@ -47,10 +47,8 @@ This repository includes beginner Python projects such as:
 - ATM Withdrawal Simulator
 - Ticket Booking System
 - Arcade High Score Tracker
-- Shopping Receipt Calculator
-- Employee Salary Calculator
 - Student Record System
-- Library Book Manager
+
 
 ---
 

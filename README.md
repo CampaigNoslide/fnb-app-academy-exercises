@@ -66,7 +66,7 @@ This repository includes beginner Python projects such as:
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 The purpose of this repository is to:
 

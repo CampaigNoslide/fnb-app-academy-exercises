@@ -52,8 +52,6 @@ This repository includes beginner Python projects such as:
 - Student Record System
 - Library Book Manager
 
-...and many additional programming exercises completed during the course.
-
 ---
 
 ##  Technologies Used
